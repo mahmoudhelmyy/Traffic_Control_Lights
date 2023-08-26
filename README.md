@@ -17,11 +17,9 @@ This project implements a traffic control system using LEDs, buttons, and an LCD
 
 The Traffic Control Lights Project is designed to control the traffic signals for cars and pedestrians, providing a safe way for pedestrians to cross the street. The project involves LED drivers, button drivers, and LCD display drivers.
 
-## Setup Instructions
+## MISRA Compliance
 
-1. Clone this repository to your local machine.
-2. Connect the necessary hardware components (LEDs, buttons, LCD).
-3. Compile and upload the code to your microcontroller.
+This project adheres to the MISRA coding rules to ensure code safety, readability, and maintainability.
 
 ## Usage
 
