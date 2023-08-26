@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<dumps language="c">
+  <platform name="win64" char_bit="8" short_bit="16" int_bit="32" long_bit="32" long_long_bit="64" pointer_bit="64"/>
+  <rawtokens>
+    <file index="0" name="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c"/>
+    <tok fileIndex="0" linenr="1" column="1" str="/*x * Interrupts_atmega32.cx *x *  Created on: Aug 20, 2023x *      Author: Group DxxxxxMahmoud Sayed Mahmoud Helmy (1285)xxxxxSeif Eldine Atef Shebl (894)xxxxxMohamed Mahmoud Masoud (200)x */"/>
+    <tok fileIndex="0" linenr="11" column="1" str="void"/>
+    <tok fileIndex="0" linenr="11" column="6" str="App"/>
+    <tok fileIndex="0" linenr="11" column="9" str="("/>
+    <tok fileIndex="0" linenr="11" column="10" str="void"/>
+    <tok fileIndex="0" linenr="11" column="14" str=")"/>
+    <tok fileIndex="0" linenr="11" column="15" str=";"/>
+    <tok fileIndex="0" linenr="13" column="1" str="int"/>
+    <tok fileIndex="0" linenr="13" column="5" str="main"/>
+    <tok fileIndex="0" linenr="13" column="9" str="("/>
+    <tok fileIndex="0" linenr="13" column="10" str=")"/>
+    <tok fileIndex="0" linenr="14" column="1" str="{"/>
+    <tok fileIndex="0" linenr="16" column="2" str="App"/>
+    <tok fileIndex="0" linenr="16" column="5" str="("/>
+    <tok fileIndex="0" linenr="16" column="6" str=")"/>
+    <tok fileIndex="0" linenr="16" column="7" str=";"/>
+    <tok fileIndex="0" linenr="20" column="1" str="}"/>
+  </rawtokens>
+  <suppressions>
+  </suppressions>
+<dump cfg="">
+  <standards>
+    <c version="c11"/>
+    <cpp version="c++23"/>
+  </standards>
+  <directivelist>
+  </directivelist>
+  <tokenlist>
+    <token id="000001DBF39172A0" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="11" column="1" str="void" scope="000001DBF3911800" type="name"/>
+    <token id="000001DBF3917300" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="11" column="6" str="App" scope="000001DBF3911800" type="name" function="000001DBF391F0A0"/>
+    <token id="000001DBF3916D60" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="11" column="9" str="(" scope="000001DBF3911800" isRemovedVoidParameter="true" link="000001DBF3916E20" valueType-type="void" valueType-reference="None"/>
+    <token id="000001DBF3916E20" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="11" column="14" str=")" scope="000001DBF3911800" link="000001DBF3916D60"/>
+    <token id="000001DBF39180E0" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="11" column="15" str=";" scope="000001DBF3911800"/>
+    <token id="000001DBF3917780" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="13" column="1" str="int" scope="000001DBF3911800" type="name"/>
+    <token id="000001DBF3917360" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="13" column="5" str="main" scope="000001DBF3911800" type="name" function="000001DBF391F140"/>
+    <token id="000001DBF3917F00" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="13" column="9" str="(" scope="000001DBF3911800" link="000001DBF39177E0" valueType-type="int" valueType-sign="signed" valueType-reference="None"/>
+    <token id="000001DBF39177E0" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="13" column="10" str=")" scope="000001DBF3911800" link="000001DBF3917F00"/>
+    <token id="000001DBF3917A20" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="14" column="1" str="{" scope="000001DBF3911A80" link="000001DBF39173C0"/>
+    <token id="000001DBF39182C0" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="16" column="2" str="App" scope="000001DBF3911A80" type="name" function="000001DBF391F0A0" astParent="000001DBF3918260"/>
+    <token id="000001DBF3918260" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="16" column="5" str="(" scope="000001DBF3911A80" link="000001DBF39174E0" exprId="1073741825" astOperand1="000001DBF39182C0" valueType-type="void" valueType-reference="None"/>
+    <token id="000001DBF39174E0" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="16" column="6" str=")" scope="000001DBF3911A80" link="000001DBF3918260"/>
+    <token id="000001DBF3916F40" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="16" column="7" str=";" scope="000001DBF3911A80"/>
+    <token id="000001DBF39173C0" file="C:/Users/Helmy/Desktop/UPDATE_Traffic_Control_Lights_Project_GROUP_D-2/Traffic-Control-Light_Project/main.c" linenr="20" column="1" str="}" scope="000001DBF3911A80" link="000001DBF3917A20"/>
+  </tokenlist>
+  <scopes>
+    <scope id="000001DBF3911800" type="Global">
+      <functionList>
+        <function id="000001DBF391F0A0" token="0000000000000000" tokenDef="000001DBF3917300" name="App" type="Function" access="Public"/>
+        <function id="000001DBF391F140" token="000001DBF3917360" tokenDef="000001DBF3917360" name="main" type="Function" access="Public"/>
+      </functionList>
+    </scope>
+    <scope id="000001DBF3911A80" type="Function" className="main" bodyStart="000001DBF3917A20" bodyEnd="000001DBF39173C0" nestedIn="000001DBF3911800" function="000001DBF391F140"/>
+  </scopes>
+  <variables>
+  </variables>
+  <valueflow>
+  </valueflow>
+</dump>
+</dumps>
