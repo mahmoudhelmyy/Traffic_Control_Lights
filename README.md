@@ -1,8 +1,7 @@
 # Traffic Control Lights Project
 
 This project implements a traffic control system using LEDs, buttons, and an LCD display. It simulates the interaction between pedestrian and car traffic signals.
-# Developed by:
-![image](https://github.com/mahmoudhelmyy/Traffic_Control_Lights/assets/52659572/9c575043-cb2f-4b80-afaa-d745c58ca00d)
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
